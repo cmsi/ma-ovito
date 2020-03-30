@@ -1,0 +1,10 @@
+--- a/src/plugins/particles/gui/objects/SimulationCellObjectEditor.h
++++ b/src/plugins/particles/gui/objects/SimulationCellObjectEditor.h
+@@ -24,6 +24,7 @@
+ 
+ #include <plugins/particles/gui/ParticlesGui.h>
+ #include <gui/properties/PropertiesEditor.h>
++#include <gui/properties/BooleanParameterUI.h>
+ 
+ namespace Ovito { namespace Particles { OVITO_BEGIN_INLINE_NAMESPACE(Internal)
+ 

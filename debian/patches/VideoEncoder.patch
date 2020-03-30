@@ -1,0 +1,11 @@
+--- a/src/core/utilities/io/video/VideoEncoder.cpp
++++ b/src/core/utilities/io/video/VideoEncoder.cpp
+@@ -162,7 +162,7 @@
+ 
+ 	// Some formats want stream headers to be separate.
+ 	if(_formatContext->oformat->flags & AVFMT_GLOBALHEADER)
+-		_codecContext->flags |= CODEC_FLAG_GLOBAL_HEADER;
++		_codecContext->flags |= AV_CODEC_FLAG_GLOBAL_HEADER;
+ 
+ 	av_dump_format(_formatContext.get(), 0, _formatContext->filename, 1);
+ 
