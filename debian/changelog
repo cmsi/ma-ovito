@@ -1,3 +1,9 @@
+ovito (2.9.0-2) unstable; urgency=low
+
+  * Fixed RUNPATH
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sun, 12 Apr 2020 13:10:03 +0900
+
 ovito (2.9.0-1) unstable; urgency=low
 
   * Initial release for 2.9.0
