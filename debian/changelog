@@ -1,3 +1,15 @@
+ovito (3.2.1-1) unstable; urgency=low
+
+  * New upstream version 3.2.1
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sun, 13 Sep 2020 12:22:17 +0900
+
+ovito (3.1.2-1) unstable; urgency=low
+
+  * New upstream version 3.1.2
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Thu, 23 Jul 2020 16:18:14 +0900
+
 ovito (2.9.0-2) unstable; urgency=low
 
   * Fixed RUNPATH
