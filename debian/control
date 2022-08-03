@@ -2,7 +2,7 @@ Source: ovito
 Section: science
 Priority: optional
 Maintainer: Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>
-Build-Depends: cmake, debhelper (>= 9), qt5-default, libqt5svg5-dev, libboost-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavresample-dev, libavutil-dev, libswscale-dev, libnetcdf-dev, libhdf5-dev, libhdf5-serial-dev, libssh-dev 
+Build-Depends: cmake, debhelper (>= 9), qtbase5-dev, libqt5svg5-dev, libboost-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavresample-dev, libavutil-dev, libswscale-dev, libnetcdf-dev, libhdf5-dev, libhdf5-serial-dev, libssh-dev
 Standards-Version: 3.9.3
 Homepage: http://www.ovito.org/
 
